@@ -13,4 +13,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Chirag0621/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Depth-First Search
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Chirag0621/Leetcode/tree/master/0785-is-graph-bipartite) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Chirag0621/Leetcode/tree/master/0785-is-graph-bipartite) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Chirag0621/Leetcode/tree/master/0785-is-graph-bipartite) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Chirag0621/Leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
