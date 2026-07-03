@@ -1,10 +1,9 @@
 class NumArray {
 public:
     vector<int> prefixsum;
-    vector<int> array; // Track original numbers to find the difference
-
+    vector<int> array; 
     NumArray(vector<int>& nums) {
-        array = nums; // Store a copy of the original elements
+        array = nums; 
         for(int i = 1; i < nums.size(); i++){
             nums[i] += nums[i-1];
         }
