@@ -12,13 +12,12 @@ public:
     }
     
     void update(int index, int val) {
-        // 1. Calculate the difference between the new value and the old value
+        
         int diff = val - array[index];
         
-        // 2. Update our tracking array with the new value
         array[index] = val;
         
-        // 3. Update the prefix sum for the updated index and all elements after it
+        
         for(int i = index; i < prefixsum.size(); i++) {
             prefixsum[i] += diff;
         }
