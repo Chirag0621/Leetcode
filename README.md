@@ -73,4 +73,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Chirag0621/Leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Chirag0621/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Chirag0621/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
+## Enumeration
+|  |
+| ------- |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Chirag0621/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 <!---LeetCode Topics End-->
