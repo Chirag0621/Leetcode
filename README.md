@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Chirag0621/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3945-digit-frequency-score](https://github.com/Chirag0621/Leetcode/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Chirag0621/Leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
+## Math
+|  |
+| ------- |
+| [3945-digit-frequency-score](https://github.com/Chirag0621/Leetcode/tree/master/3945-digit-frequency-score) |
 <!---LeetCode Topics End-->
