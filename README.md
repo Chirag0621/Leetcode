@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Chirag0621/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3913-sort-vowels-by-frequency](https://github.com/Chirag0621/Leetcode/tree/master/3913-sort-vowels-by-frequency) |
 | [3931-check-adjacent-digit-differences](https://github.com/Chirag0621/Leetcode/tree/master/3931-check-adjacent-digit-differences) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Chirag0621/Leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Sliding Window
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [3913-sort-vowels-by-frequency](https://github.com/Chirag0621/Leetcode/tree/master/3913-sort-vowels-by-frequency) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Chirag0621/Leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Dynamic Programming
 |  |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Chirag0621/Leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
+## Counting
+|  |
+| ------- |
+| [3913-sort-vowels-by-frequency](https://github.com/Chirag0621/Leetcode/tree/master/3913-sort-vowels-by-frequency) |
 <!---LeetCode Topics End-->
