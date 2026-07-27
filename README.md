@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/Chirag0621/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [1260-shift-2d-grid](https://github.com/Chirag0621/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chirag0621/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3903-smallest-stable-index-i](https://github.com/Chirag0621/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3912-valid-elements-in-an-array](https://github.com/Chirag0621/Leetcode/tree/master/3912-valid-elements-in-an-array) |
 | [3917-count-indices-with-opposite-parity](https://github.com/Chirag0621/Leetcode/tree/master/3917-count-indices-with-opposite-parity) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Chirag0621/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chirag0621/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Chirag0621/Leetcode/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
