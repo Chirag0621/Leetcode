@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/Chirag0621/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [1260-shift-2d-grid](https://github.com/Chirag0621/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chirag0621/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/Chirag0621/Leetcode/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Chirag0621/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Chirag0621/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Chirag0621/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/Chirag0621/Leetcode/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Chirag0621/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Chirag0621/Leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Backtracking
