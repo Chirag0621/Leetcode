@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Chirag0621/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3838-weighted-word-mapping](https://github.com/Chirag0621/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Chirag0621/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3913-sort-vowels-by-frequency](https://github.com/Chirag0621/Leetcode/tree/master/3913-sort-vowels-by-frequency) |
 | [3931-check-adjacent-digit-differences](https://github.com/Chirag0621/Leetcode/tree/master/3931-check-adjacent-digit-differences) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Chirag0621/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chirag0621/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Chirag0621/Leetcode/tree/master/3731-find-missing-elements) |
+| [3838-weighted-word-mapping](https://github.com/Chirag0621/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3861-minimum-capacity-box](https://github.com/Chirag0621/Leetcode/tree/master/3861-minimum-capacity-box) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Chirag0621/Leetcode/tree/master/3862-find-the-smallest-balanced-index) |
 | [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/Chirag0621/Leetcode/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Chirag0621/Leetcode/tree/master/1260-shift-2d-grid) |
+| [3838-weighted-word-mapping](https://github.com/Chirag0621/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Number Theory
 |  |
 | ------- |
