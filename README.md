@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Chirag0621/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3838-weighted-word-mapping](https://github.com/Chirag0621/Leetcode/tree/master/3838-weighted-word-mapping) |
+| [3856-trim-trailing-vowels](https://github.com/Chirag0621/Leetcode/tree/master/3856-trim-trailing-vowels) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Chirag0621/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3913-sort-vowels-by-frequency](https://github.com/Chirag0621/Leetcode/tree/master/3913-sort-vowels-by-frequency) |
 | [3931-check-adjacent-digit-differences](https://github.com/Chirag0621/Leetcode/tree/master/3931-check-adjacent-digit-differences) |
