@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Chirag0621/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chirag0621/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Chirag0621/Leetcode/tree/master/3731-find-missing-elements) |
+| [3833-count-dominant-indices](https://github.com/Chirag0621/Leetcode/tree/master/3833-count-dominant-indices) |
 | [3838-weighted-word-mapping](https://github.com/Chirag0621/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Chirag0621/Leetcode/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3861-minimum-capacity-box](https://github.com/Chirag0621/Leetcode/tree/master/3861-minimum-capacity-box) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Chirag0621/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3833-count-dominant-indices](https://github.com/Chirag0621/Leetcode/tree/master/3833-count-dominant-indices) |
 | [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/Chirag0621/Leetcode/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Chirag0621/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Chirag0621/Leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
