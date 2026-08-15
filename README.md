@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Chirag0621/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/Chirag0621/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Chirag0621/Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [1192-critical-connections-in-a-network](https://github.com/Chirag0621/Leetcode/tree/master/1192-critical-connections-in-a-network) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Chirag0621/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/Chirag0621/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Chirag0621/Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [1192-critical-connections-in-a-network](https://github.com/Chirag0621/Leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Chirag0621/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Array
 |  |
@@ -187,4 +189,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Chirag0621/Leetcode/tree/master/0877-stone-game) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Chirag0621/Leetcode/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Chirag0621/Leetcode/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
