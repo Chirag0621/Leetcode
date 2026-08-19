@@ -8,7 +8,7 @@ public:
 
         for (int i = n - 2; i >= 0; i--) {
             int cnt = n - i - 1;
-
+     
             if (1LL * nums[i] * cnt > sum) {
                 ans++;
             }
