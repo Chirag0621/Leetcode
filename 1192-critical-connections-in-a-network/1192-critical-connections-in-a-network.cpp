@@ -1,3 +1,4 @@
+// Tarjan's Algorithm
 class Solution {
     int timer = 1;
 public:
