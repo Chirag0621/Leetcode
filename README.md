@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Chirag0621/Leetcode/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/Chirag0621/Leetcode/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Chirag0621/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Chirag0621/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Chirag0621/Leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3870-count-commas-in-range](https://github.com/Chirag0621/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Chirag0621/Leetcode/tree/master/3871-count-commas-in-range-ii) |
