@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Chirag0621/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Chirag0621/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Chirag0621/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Chirag0621/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Chirag0621/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Chirag0621/Leetcode/tree/master/3731-find-missing-elements) |
 | [3833-count-dominant-indices](https://github.com/Chirag0621/Leetcode/tree/master/3833-count-dominant-indices) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Chirag0621/Leetcode/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Chirag0621/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Chirag0621/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Chirag0621/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Chirag0621/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Chirag0621/Leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3870-count-commas-in-range](https://github.com/Chirag0621/Leetcode/tree/master/3870-count-commas-in-range) |
