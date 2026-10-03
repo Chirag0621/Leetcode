@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Chirag0621/Leetcode/tree/master/0283-move-zeroes) |
 | [0307-range-sum-query-mutable](https://github.com/Chirag0621/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0877-stone-game](https://github.com/Chirag0621/Leetcode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Chirag0621/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Chirag0621/Leetcode/tree/master/0283-move-zeroes) |
 | [3794-reverse-string-prefix](https://github.com/Chirag0621/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Chirag0621/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Matrix
