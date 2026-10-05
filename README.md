@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Chirag0621/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0198-house-robber](https://github.com/Chirag0621/Leetcode/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/Chirag0621/Leetcode/tree/master/0283-move-zeroes) |
 | [0307-range-sum-query-mutable](https://github.com/Chirag0621/Leetcode/tree/master/0307-range-sum-query-mutable) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Chirag0621/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Chirag0621/Leetcode/tree/master/0283-move-zeroes) |
 | [3794-reverse-string-prefix](https://github.com/Chirag0621/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Chirag0621/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
