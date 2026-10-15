@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Chirag0621/Leetcode/tree/master/0389-find-the-difference) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Chirag0621/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Chirag0621/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Chirag0621/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chirag0621/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Chirag0621/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Chirag0621/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Chirag0621/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Chirag0621/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Chirag0621/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Chirag0621/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Chirag0621/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Chirag0621/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Chirag0621/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -114,10 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Chirag0621/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Chirag0621/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Chirag0621/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Chirag0621/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Topological Sort
 |  |
 | ------- |
