@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Chirag0621/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Chirag0621/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chirag0621/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [4044-count-good-cyclic-rotations](https://github.com/Chirag0621/Leetcode/tree/master/4044-count-good-cyclic-rotations) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3917-count-indices-with-opposite-parity](https://github.com/Chirag0621/Leetcode/tree/master/3917-count-indices-with-opposite-parity) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Chirag0621/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Chirag0621/Leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
+| [4044-count-good-cyclic-rotations](https://github.com/Chirag0621/Leetcode/tree/master/4044-count-good-cyclic-rotations) |
 | [4062-transform-array-using-pair-operations](https://github.com/Chirag0621/Leetcode/tree/master/4062-transform-array-using-pair-operations) |
 ## Divide and Conquer
 |  |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3862-find-the-smallest-balanced-index](https://github.com/Chirag0621/Leetcode/tree/master/3862-find-the-smallest-balanced-index) |
 | [3903-smallest-stable-index-i](https://github.com/Chirag0621/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Chirag0621/Leetcode/tree/master/3904-smallest-stable-index-ii) |
+| [4044-count-good-cyclic-rotations](https://github.com/Chirag0621/Leetcode/tree/master/4044-count-good-cyclic-rotations) |
 ## Game Theory
 |  |
 | ------- |
