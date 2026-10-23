@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chirag0621/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/Chirag0621/Leetcode/tree/master/0054-spiral-matrix) |
 | [0198-house-robber](https://github.com/Chirag0621/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Chirag0621/Leetcode/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/Chirag0621/Leetcode/tree/master/0283-move-zeroes) |
@@ -212,12 +213,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Chirag0621/Leetcode/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/Chirag0621/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Chirag0621/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Chirag0621/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Chirag0621/Leetcode/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/Chirag0621/Leetcode/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Chirag0621/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Chirag0621/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
