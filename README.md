@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chirag0621/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Chirag0621/Leetcode/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/Chirag0621/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Chirag0621/Leetcode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Chirag0621/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Chirag0621/Leetcode/tree/master/0213-house-robber-ii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Chirag0621/Leetcode/tree/master/0075-sort-colors) |
 | [0389-find-the-difference](https://github.com/Chirag0621/Leetcode/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/Chirag0621/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chirag0621/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chirag0621/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Chirag0621/Leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Chirag0621/Leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Chirag0621/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3794-reverse-string-prefix](https://github.com/Chirag0621/Leetcode/tree/master/3794-reverse-string-prefix) |
@@ -304,4 +307,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4062-transform-array-using-pair-operations](https://github.com/Chirag0621/Leetcode/tree/master/4062-transform-array-using-pair-operations) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Chirag0621/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Chirag0621/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
