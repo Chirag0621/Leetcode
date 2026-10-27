@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chirag0621/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Chirag0621/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Chirag0621/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Chirag0621/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Chirag0621/Leetcode/tree/master/0118-pascals-triangle) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Chirag0621/Leetcode/tree/master/0053-maximum-subarray) |
 | [0307-range-sum-query-mutable](https://github.com/Chirag0621/Leetcode/tree/master/0307-range-sum-query-mutable) |
 ## Design
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Chirag0621/Leetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Chirag0621/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Chirag0621/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Chirag0621/Leetcode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Chirag0621/Leetcode/tree/master/0198-house-robber) |
