@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Chirag0621/Leetcode/tree/master/0389-find-the-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/Chirag0621/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Chirag0621/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Chirag0621/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Chirag0621/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/Chirag0621/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Chirag0621/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Chirag0621/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Chirag0621/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0877-stone-game](https://github.com/Chirag0621/Leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Chirag0621/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/Chirag0621/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Chirag0621/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Chirag0621/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Chirag0621/Leetcode/tree/master/3862-find-the-smallest-balanced-index) |
 | [3903-smallest-stable-index-i](https://github.com/Chirag0621/Leetcode/tree/master/3903-smallest-stable-index-i) |
